@@ -1,9 +1,9 @@
-### Hi there 👋
+# Olá, você! 😄
 
-<!--
-**yukiecanatto/yukiecanatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Eu sou Gabriela Yukie, mas pode me chamar de Yuki, mais fácil de lembrar.
+
+Sou formada em Análise e desenvolvimento de sistemas, pela UNIP; e atualmente estou estudando Front-end do programa Ford Enter, uma parceria entre a Ford Motor Company Brasil, Ford Fund e SENAI-SP.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
