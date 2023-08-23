@@ -1,3 +1,7 @@
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  
+          
+
 # Olá, você! 😄
 
 
@@ -8,5 +12,9 @@ Sou formada em Análise e desenvolvimento de sistemas, pela UNIP; e atualmente e
 Apaixonada por games, animais e café.
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukiecanatto&show_icons=true&theme=radical)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukiecanatto)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+          
