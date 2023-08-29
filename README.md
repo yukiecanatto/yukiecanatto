@@ -9,7 +9,7 @@ Sou formada em Análise e desenvolvimento de sistemas, pela UNIP; e atualmente e
 
 Apaixonada por games, animais e café.
 
-<img height ="200" src="https://github-readme-stats.vercel.app/api?username=yukiecanatto&show_icons=true&theme=radical"/><img height ="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut"/>
+<img width ="200" src="https://github-readme-stats.vercel.app/api?username=yukiecanatto&show_icons=true&theme=radical"/><img width ="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut"/>
 
 
 
