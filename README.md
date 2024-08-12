@@ -1,13 +1,13 @@
 
 
-# Olá, você! 😄
+# Hey there! 😄
 
 
-## Eu sou Gabriela Yukie, mas pode me chamar de Yuki, mais fácil de lembrar.
+## I'm Gabriela Yukie, but you could call me Yuki, it's easily to remember.
 
-Sou formada em Análise e desenvolvimento de sistemas, pela UNIP; e atualmente estou estudando Front-end no programa Ford Enter, uma parceria entre a Ford Motor Company Brasil, Ford Fund e SENAI-SP.
+I have a degree in Systems Analysis and Development by UNIP; and Front-end by Ford Enter, a partnership between Ford Motor Company Brasil, Ford Fund and SENAI-SP.
 
-Apaixonada por games, animais e café.
+Passionate about games, animals and coffee.
 
 <img height ="200" src="https://github-readme-stats.vercel.app/api?username=yukiecanatto&show_icons=true&theme=radical"/><img height ="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut"/>
 
