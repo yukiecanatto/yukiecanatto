@@ -15,7 +15,7 @@ I'm a Fullstack Developer; by Ford Enter, a partnership between Ford Motor Compa
 
 
 <img height = "80" src="https://devicon-website.vercel.app/api/java/plain-wordmark.svg" /> <img height = "80" src="https://devicon-website.vercel.app/api/mysql/plain-wordmark.svg"></img>
-<img height = "80" src="https://devicon-website.vercel.app/api/spring/original-wordmark.svg"></img> <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img height = "80" src="https://devicon-website.vercel.app/api/git/original.svg"></img> <img height = "80" src="https://devicon-website.vercel.app/api/github/original.svg"></img>
+<img height = "80" src="https://devicon-website.vercel.app/api/spring/original-wordmark.svg"></img> <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> <img height = "80" src="https://devicon-website.vercel.app/api/bootstrap/plain.svg"></img> <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img height = "80" src="https://devicon-website.vercel.app/api/git/original.svg"></img> <img height = "80" src="https://devicon-website.vercel.app/api/github/original.svg"></img>
 
 <img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
 
